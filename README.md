@@ -5,8 +5,10 @@
 > [!WARNING]
 > This user has been reported for being too good at coding.
 
-I have coded in:  
 ![test](https://github-stats-extended.vercel.app/api?username=emilkc-code&theme=dark_github)
+
+I have coded in:  
+![test](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github)
 
 <details>
   <summary> C# </summary>
