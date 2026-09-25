@@ -5,7 +5,7 @@
 ![Emil's Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github)
 
 ## I run Arch Linux
-![Arch Linux Icon Example Image](https://teranpeterson.com/assets/arch.png)
+![Arch Linux SVG Icon](https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg)
 
 <details>
   <summary> C# </summary>
