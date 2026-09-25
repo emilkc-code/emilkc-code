@@ -1,7 +1,7 @@
 > [!WARNING]
 > This user has been reported for being too good at coding.
 
-[![Emil's GitHub stats](https://github-stats-extended.vercel.app/api/?username=emilkc-code&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&custom_title=Emil's+Stats&number_format=long&show=prs_merged_percentage,prs_reviewed)
+![Emil's GitHub stats](https://github-stats-extended.vercel.app/api/?username=emilkc-code&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&custom_title=Emil's+Stats&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 ![Emil's Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github)
 
