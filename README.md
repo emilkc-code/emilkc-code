@@ -1,5 +1,5 @@
 > [!WARNING]
-> This user has been reported for being too good at coding.
+> This user has been reported for coding too well.
 
 <div align="center">
   <h1>Emil's GitHub</h1>
