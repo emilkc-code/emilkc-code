@@ -1,6 +1,6 @@
 ## Hai
 
-#### I'm Emil
+#### I'm Emil  
 I have coded in:
 `C#`
 `Lua`
@@ -8,5 +8,5 @@ I have coded in:
 `Java`
 `Skript`
 `HLSL`
-
+`Rust`  
 I'm currently studying at SEAV in Denmark.
