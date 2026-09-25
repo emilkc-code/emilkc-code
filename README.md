@@ -37,4 +37,8 @@ I have made scripts for multiple minecraft servers.
 
 I'm currently studying at [SEA](https://www.s-e-a.dk/) in Denmark.
 
-![Arch Linux SVG Icon](https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg)
+<div align="center">
+  <p>
+    <img src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg" style="max-width: 100%;" alt="Arch Linux SVG Icon"/>
+  </p>
+</div>
