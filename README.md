@@ -12,8 +12,6 @@
   </p>
 </div>
 
-![Arch Linux SVG Icon](https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg)
-
 <details>
   <summary> C# </summary>
   I made a game in Unity.
@@ -47,6 +45,16 @@
 <details>
   <summary> Rust </summary>
   I made a converter that takes in a date and outputs that date in a 13-month calender system and then I made a function for checking if an integer is bigger than another taking 2ns.
+
+  <details>
+    <summary> Greater than function </summary>
+  </details>
 </details>
-  
-I'm currently studying at SEAV in Denmark.
+
+https://github.com/emilkc-code/small-rust-functions/blob/e770d05bd1d1e60ac7c6f6c2a9a73985ada58e42/greater-than/src/main.rs#L1-L54
+
+I'm currently studying at [SEA](https://www.s-e-a.dk/) in Denmark.
+![SEA Logo](https://www.s-e-a.dk/app/uploads/2026/01/004_Erhvervsakademi-Sydvest_Esb_sep23_CHO-Medium.jpg)
+
+
+![Arch Linux SVG Icon](https://archlinux.org/static/logos/archlinux-logo-light-scalable.svg)
