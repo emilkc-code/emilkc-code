@@ -4,6 +4,9 @@
 ![Emil's GitHub stats](https://github-stats-extended.vercel.app/api/?username=emilkc-code&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&custom_title=Emil's+Stats&number_format=long&show=prs_merged_percentage,prs_reviewed)
 ![Emil's Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github)
 
+## I run Arch Linux
+![Arch Linux Icon Example Image](https://teranpeterson.com/assets/arch.png)
+
 <details>
   <summary> C# </summary>
   I made a game in Unity.
