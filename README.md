@@ -1,14 +1,9 @@
-## Hai
-
-#### I'm Emil  
-
 > [!WARNING]
 > This user has been reported for being too good at coding.
 
-![test](https://github-stats-extended.vercel.app/api?username=emilkc-code&theme=dark_github)
+![Emil's Stats](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
-I have coded in:  
-![test](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github)
+![Emil's Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github)
 
 <details>
   <summary> C# </summary>
