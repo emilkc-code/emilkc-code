@@ -14,19 +14,20 @@
 </div>
 
 #### C#
-I made a game in Unity.
+- Unity Game
 
 #### Lua
-I made a game in Roblox.
+- Roblox Game
 
 #### Python
-I trained an AI for Rocket League.
+- AI for Rocket League.
 
 #### Java
-I made a 3D Graphics Renderer in Greenfoot and I made a custom Pong game in Greenfoot.
+- [3D Graphics Renderer in Greenfoot](https://github.com/emilkc-code/greenfoot-3d)
+- [Custom pong game in Greenfoot](https://github.com/emilkc-code/pong)
 
 #### Skript
-I have made scripts for multiple minecraft servers.
+- I have made scripts for multiple minecraft servers.
 
 #### HLSL
 - Fractal shader.
@@ -35,7 +36,8 @@ I have made scripts for multiple minecraft servers.
 - [13-month-calender](https://github.com/emilkc-code/small-rust-functions/tree/main/13-month)
 - [greater-than](https://github.com/emilkc-code/small-rust-functions/tree/main/greater-than)
 
-I'm currently studying at [SEA](https://www.s-e-a.dk/) in Denmark.
+I'm currently studying at [SEA](https://www.s-e-a.dk/) in Denmark.  
+  
 
 <div align="center">
   <p>
