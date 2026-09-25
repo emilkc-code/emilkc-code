@@ -4,10 +4,10 @@
   <h1>Emil's GitHub</h1>
   <p>
     <a>
-      <img src="https://github-stats-extended.vercel.app/api/?username=emilkc-code&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&custom_title=Emil's+Stats&number_format=long&show=prs_merged_percentage,prs_reviewed" width="100px" alt="Emil's GitHub stats"/>
+      <img src="https://github-stats-extended.vercel.app/api/?username=emilkc-code&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&custom_title=Emil's+Stats&number_format=long&show=prs_merged_percentage,prs_reviewed" style="max-width: 100%;" alt="Emil's GitHub stats"/>
     </a>
     <a>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github" width="100px" alt="Emil's Languages"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github" style="max-width: 100%;" alt="Emil's Languages"/>
     </a>
   </p>
 </div>
