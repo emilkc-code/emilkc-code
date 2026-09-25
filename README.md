@@ -7,6 +7,8 @@
 
 I have coded in:  
 
+Language | Project
+--- | ---
 `C#` | I made a game in Unity.
 `Lua` | I made a game in Roblox.
 `Python` | I trained an AI for Rocket League.
