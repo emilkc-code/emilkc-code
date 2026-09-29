@@ -27,14 +27,15 @@
 - [Custom pong game in Greenfoot](https://github.com/emilkc-code/pong)
 
 #### Skript
-- I have made scripts for multiple minecraft servers.
+- [Collection](https://google.com)
 
 #### HLSL
-- Fractal shader.
+- [Fractal shader](https://github.com/emilkc-code/Shaders/blob/main/HLSL/Fractal%20Shader)
 
 #### Rust
-- [13-month-calender](https://github.com/emilkc-code/small-rust-functions/tree/main/13-month)
+- [13-month-calender](https://github.com/emilkc-code/small-rust-functions/tree/main/month-13)
 - [greater-than](https://github.com/emilkc-code/small-rust-functions/tree/main/greater-than)
+- [sorting-algorithm](https://github.com/emilkc-code/small-rust-functions/tree/main/sorting-algorithm)
 
 I'm currently studying at [SEA](https://www.s-e-a.dk/) in Denmark.  
   
