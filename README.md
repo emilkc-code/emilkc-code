@@ -27,7 +27,7 @@
 - [Custom pong game in Greenfoot](https://github.com/emilkc-code/pong)
 
 #### Skript
-- [Collection](https://google.com)
+- [Collection](https://github.com/emilkc-code/skript-scripts/tree/main/scripts)
 
 #### HLSL
 - [Fractal shader](https://github.com/emilkc-code/Shaders/blob/main/HLSL/Fractal%20Shader)
